@@ -1,0 +1,23 @@
+<html>
+
+
+<head>
+ <title>Happy birthday</title>
+</head>
+
+<left>
+<h1>
+      Мое солнышко с днем рождения тебя 
+</h1>
+</left>
+
+<h6>мяу</h6>
+
+<body>
+<font size="19" color= "blue"  face="Tahoma">
+<b>Ты замечательный человек </b>
+</font>
+
+<br>
+  
+<img scr="images/2.jpg">
